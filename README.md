@@ -35,7 +35,7 @@ The dataset has 13 columns which are,
 
 SPM, RSPM, PM2.5 values are the parameters used to measure the quality of air based 
 on the number of particles present in it. Using these values, we are going to identify the 
-air quality over the period of time in different states of India
+air quality over the period of time in different states of India.
 
 
-*Download .ipynb file which has data analysis code with notes*
+*Download .ipynb file which has data analysis code with notes.*
